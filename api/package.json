@@ -1,0 +1,6 @@
+{
+  "name": "elisa-djen-proxy-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy DJEN da Elisa em Vercel Edge Function"
+}
